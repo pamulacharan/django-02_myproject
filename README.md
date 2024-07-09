@@ -1,0 +1,1 @@
+# django-02_myproject
